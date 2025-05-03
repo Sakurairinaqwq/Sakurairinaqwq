@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning C++ C# Unity Godot
 - 📫 How to reach me: sakurairinaqwq.bsky.social
 - ⚡ Fun fact: The world is actually made of ray detection!
-<!--more-->
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakurairinaqwq&layout=compact">
 </a>
