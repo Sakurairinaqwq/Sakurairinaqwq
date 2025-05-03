@@ -6,3 +6,4 @@
 - ⚡ Fun fact: The world is actually made of ray detection!
 <!--more-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakurairinaqwq)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakurairinaqwq)
