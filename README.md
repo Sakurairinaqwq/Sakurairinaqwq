@@ -5,7 +5,7 @@
 <!--more-->
 - 🔭 I’m currently working on Unreal Engine Vehicle Physics
 
-- 🌱 I’m currently learning C++ C# Unity Godot
+- 🌱 I’m currently learning C++ C# Godot
 
 - 📫 How to reach me: sakurairinaqwq.bsky.social
 
