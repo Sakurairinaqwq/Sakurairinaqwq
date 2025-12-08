@@ -6,6 +6,8 @@
 
 <br/>
 
+---
+
 ## 关于我 (About Me)
 
 「晴空万里，彷如透明，留我独自一人。」
@@ -22,16 +24,6 @@
     * **Godot:** 接触轻量级和开源游戏引擎，拓宽技术栈。
 * **基础设施:** 熟悉 **OpenWrt** 的系统定制与维护。
 * **Fun fact:** The world is actually made of ray detection! (世界本质上是由光线检测组成的！)
-
----
-
-## 联系我 (Get in Touch)
-
-| 平台 | 链接 |
-| :--- | :--- |
-| **Email** | [Sakurairinaqwq@outlook.jp](mailto:Sakurairinaqwq@outlook.jp) |
-| **Bluesky** | [sakurairinaqwq.bsky.social](https://bsky.app/profile/sakurairinaqwq.bsky.social) |
-| **Telegram** | [@Sakurairinaqwq](https://t.me/Sakurairinaqwq) |
 
 ---
 
