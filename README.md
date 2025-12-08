@@ -1,7 +1,7 @@
 # Hi there! I'm 樱井璃奈 (Sakurairinaqwq)
 
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakurairinaqwq&show_icons=true&hide_border=false&icon_color=E91E63&title_color=D81B60&text_color=586069&theme=default" alt="Sakurairinaqwq's GitHub Stats" />
+  <img align="right" src="https://githubcard.com/Sakurairinaqwq.svg?d=lE2UTlfv" alt="Sakurairinaqwq's GitHub Stats" />
 </div>
 
 <br/>
@@ -35,11 +35,8 @@
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakurairinaqwq&layout=compact&hide_border=false&langs_count=6&theme=default&title_color=D81B60&text_color=586069&icon_color=E91E63" alt="Sakurairinaqwq's Top Languages" />
-</div>
-
 <br/>
+
 <div align="center">
   <a href="https://github.com/Sakurairinaqwq/Sakurairinaqwq">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Sakurairinaqwq.Sakurairinaqwq" alt="Visit Count" />
