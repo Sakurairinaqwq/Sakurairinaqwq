@@ -1,9 +1,7 @@
 # Hi there! I'm 樱井璃奈 (Sakurairinaqwq)
 
 <div align="center">
-  <a href="https://github.com/Sakurairinaqwq">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakurairinaqwq&show_icons=true&hide_border=false&icon_color=E91E63&title_color=D81B60&text_color=586069&count_private=true&include_all_commits=true&theme=default" alt="Sakurairinaqwq's GitHub Stats" />
-  </a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakurairinaqwq&show_icons=true&hide_border=false&icon_color=E91E63&title_color=D81B60&text_color=586069&theme=default" alt="Sakurairinaqwq's GitHub Stats" />
 </div>
 
 <br/>
