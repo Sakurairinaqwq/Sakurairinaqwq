@@ -1,36 +1,48 @@
-# Hi there! I'm 樱井璃奈 (Sakurairinaqwq)
+# 樱井璃奈
 
 <div align="center">
-  <img align="right" src="https://githubcard.com/Sakurairinaqwq.svg?d=lE2UTlfv" alt="Sakurairinaqwq's GitHub Stats" />
+  <img align="right" src="https://githubcard.com/Sakurairinaqwq.svg?d=lE2UTlfv" alt="GitHub Stats" />
 </div>
-
-<br/>
-
----
-
-## 关于我 (About Me)
 
 「晴空万里，彷如透明，留我独自一人。」
 
-我是一名对**游戏开发**、**系统优化**和**美学设计**充满热情的创作者。喜欢用代码实现各种奇妙的构想，并且致力于打造用户体验优秀的数字产品。
+---
+
+写代码的，也是个快要烂掉的人。
+
+做过一些没什么用的小玩意儿，大多是为了自己用。偶尔也开源出来，万一有人需要呢。
+
+现在在折腾 **Unreal Engine**，主要是车辆物理那块。想做出真实的车感，但发现这坑比想象中深得多。
+
+会一点 **C++**，一点 **C#**，一点 **GDScript**。都是半吊子，够用就行。
+
+OpenWrt 玩过一阵，软路由那些东西。
 
 ---
 
-## 我的技能和项目焦点 (My Focus)
+### 几个还在维护的东西
 
-* **当前工作:** 深入研究 **虚幻引擎 (Unreal Engine)** 中的**车辆物理系统 (Vehicle Physics)**，探索更真实、更高效的模拟方案。
-* **正在学习:** * **C++:** 掌握底层逻辑和性能优化，这是 UE 开发的核心。
-    * **C#:** 探索 Unity 或其他框架的可能性，扩展开发生态。
-    * **Godot:** 接触轻量级和开源游戏引擎，拓宽技术栈。
-* **基础设施:** 熟悉 **OpenWrt** 的系统定制与维护。
-* **Fun fact:** The world is actually made of ray detection! (世界本质上是由光线检测组成的！)
+- **[UnrealFabAssistantPlus](https://github.com/Sakurairinaqwq/UnrealFabAssistantPlus)** — Fab领取免费资产的油猴脚本+基础UI。
+- **[BPBPanel-ThreeBodyConceptVersion](https://github.com/Sakurairinaqwq/BPBPanel-ThreeBodyConceptVersion)** — 三体风格的代理面板前端，CRT显示器效果。
 
 ---
+
+### 联系
+
+不太看 GitHub 消息。
+
+如果真的想找我，去博客留言吧：**[arkn.icu](https://arkn.icu)**
+
+---
+
+<div align="center">
+  <sub>Only my Railgun can shoot it.</sub>
+</div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/Sakurairinaqwq/Sakurairinaqwq">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sakurairinaqwq.Sakurairinaqwq" alt="Visit Count" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sakurairinaqwq.Sakurairinaqwq" alt="visitors" />
   </a>
 </div>
