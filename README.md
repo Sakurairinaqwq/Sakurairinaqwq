@@ -31,7 +31,7 @@ OpenWrt 玩过一阵，软路由那些东西。
 
 不太看 GitHub 消息。
 
-如果真的想找我，去博客留言吧：**[arkn.icu](https://arkn.icu)**
+如果真的想找我，去博客留言吧：**[blog.resonera.cn](https://blog.resonera.cn)**
 
 ---
 
