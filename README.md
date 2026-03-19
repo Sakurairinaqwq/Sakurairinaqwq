@@ -1,8 +1,5 @@
-# 樱井璃奈
 
-<div align="center">
-  <img align="right" src="https://githubcard.com/Sakurairinaqwq.svg?d=lE2UTlfv" alt="GitHub Stats" />
-</div>
+---
 
 「晴空万里，彷如透明，留我独自一人。」
 
