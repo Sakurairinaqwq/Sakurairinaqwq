@@ -21,7 +21,7 @@ OpenWrt 玩过一阵，软路由那些东西。
 
 不太看 GitHub，这世间太过喧嚣。
 
-部落格：**[blog.resonera.cn](https://rina.resonera.cn)**
+部落格：**[rina.resonera.cn](https://rina.resonera.cn)**
 
 ---
 
